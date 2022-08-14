@@ -7,9 +7,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: stefan_rosu_linkedin_pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image_cicular: true # crops the image to make it circular
   address: >
-    <p>Bucharest, Romania</p>
+    <p align="center">Bucharest, Romania</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
