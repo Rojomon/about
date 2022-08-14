@@ -16,8 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br>
-Hi! I'm Ștefan and I'm a music lover, a film aficionado, an amateur road cyclist, a begginer runner, an occasional computer gamer and a passionate student of 
-life. I love solving problems and strive to always learn. My sweet tooth is `all things tech`! I've recently gotten my feet weet in computer programming. 
+Hi! I'm Ștefan and I'm a music lover, a film aficionado, an amateur road cyclist, a begginer runner, an occasional computer gamer and an ardent student of life. I love solving problems and strive to always learn. My sweet tooth is `all things tech`! I've recently gotten my feet weet in computer programming. 
 
 I am Currently learning `Python`, HTML, CSS, JavaScript fundamentals, and the `Django` web framework. Add to that Jekyll on which I am building this
 personal web page. This week, 8th-13th of August 2022, I've learned how to set up my domanin, NS, and my first AWS VPC with Nginx.
