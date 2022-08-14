@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: cycling through music n' emotions
+subtitle: <p><em>cycling through music n' emotions</em></p>
 
 profile:
   align: right
@@ -15,10 +15,8 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-Welcome to my humble corner! 
-
-I'm Ștefan and I'm a music lover, a film aficionado, an amateur road cyclist, a begginer runner, an occasional computer gamer and a passionate student of 
+<br>
+Hi! I'm Ștefan and I'm a music lover, a film aficionado, an amateur road cyclist, a begginer runner, an occasional computer gamer and a passionate student of 
 life. I love solving problems and strive to always learn. My sweet tooth is `all things tech`! I've recently gotten my feet weet in computer programming. 
 
 I am Currently learning `Python`, HTML, CSS, JavaScript fundamentals, and the `Django` web framework. Add to that Jekyll on which I am building this
