@@ -25,12 +25,12 @@ This page is hosted on GitHub Pages and it's a fork of the [`al-folio`](https://
 
 My current objectives are:
 <ul>
-  <li>Complete my personal page</li>
+  <li>Complete this personal page</li>
   <li>Get from no Python in March 2022, to intermediate Python skills by March 2023</li>
   <li>Walk the long n' twisty road from Dummy to Master Programmer</li>
 </ul>
 
-Many thanks go to [`Dr. Chuck`](http://www.dr-chuck.com) and his free online courses [`Python for Everybody`](https://www.py4e.com) and [`Django for Everybody`](https://www.dj4e.com). A special mention goes to to my dear colleague [`Tavi`](https://www.linkedin.com/in/octavian-erdei-53086223/): you are a neverending source of inspiration!
+Many thanks go out to [`Dr. Chuck`](http://www.dr-chuck.com) and his free online courses [`Python for Everybody`](https://www.py4e.com) and [`Django for Everybody`](https://www.dj4e.com). A special mention goes to to my dear colleague [`Tavi`](https://www.linkedin.com/in/octavian-erdei-53086223/): you are a neverending source of inspiration!
 
 `under construction`<br>
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
