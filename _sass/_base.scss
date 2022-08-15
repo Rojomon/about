@@ -6,6 +6,8 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+  // text-align: justify; //added justification for the text on the about page
+  // text-justify: inter-word; //added justification for the text on the about page
 }
 
 hr {
@@ -100,6 +102,7 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    text-align: center;
     p {
       display: inline-block;
       margin: 0;
