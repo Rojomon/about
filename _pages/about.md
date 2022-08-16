@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: stefanrosu.ro
+permalink: /
 subtitle: <p><em>cycling through music n' emotions</em></p>
 
 profile:
