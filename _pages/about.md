@@ -19,6 +19,6 @@ Hi! I'm Ștefan and I'm a music lover, a film aficionado, an amateur road cyclis
 
 I am currently learning Python, HTML, CSS, JavaScript fundamentals, and the Django web framework. Add to that Jekyll on which I am building this personal web page. Everything for following the long n' twisty road from Dummy to Master Programmer.
 
-This page is hosted on AWS using an EC2 instance and it's a fork of the [al-folio](https://github.com/alshedivat/al-folio) Jekyll template.
+This website is hosted on AWS using an EC2 instance and it's a fork of the [al-folio](https://github.com/alshedivat/al-folio) Jekyll template.
 
 Many thanks go out to [Dr. Chuck](http://www.dr-chuck.com) - you must check his free online courses [Python for Everybody](https://www.py4e.com) and [Django for Everybody](https://www.dj4e.com). A special mention goes to my dear colleague [Tavi](https://www.linkedin.com/in/octavian-erdei-53086223/): you are a never-ending source of inspiration!
