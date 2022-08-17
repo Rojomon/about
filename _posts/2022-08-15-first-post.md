@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  First Post
-description: no idea
+description: What a great idea!
 tags: python
 categories: self-taught-programmer
 ---
