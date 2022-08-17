@@ -8,7 +8,7 @@ inline: false
 Welcome to my corner of the world-wide-web!
 
 I've decided it's time to go live and present myself to the world.
-At first I went with [GitHub Pages](https://pages.github.com/) for hosting, but I finally opted for full-control and my own AWS VPS.
+At first I went with [GitHub Pages](https://pages.github.com/) for hosting, but I finally opted for full-control and my own [AWS](https://aws.amazon.com/) VPS.
 I bet this way there's more trouble coming my way, therefore more learning oportunities.
 
 ***
