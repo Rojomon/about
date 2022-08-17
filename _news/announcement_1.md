@@ -8,8 +8,8 @@ inline: false
 Welcome to my corner of the world-wide-web!
 
 I've decided it's time to go live and present myself to the world.
-At first I went with GitHub Pages for hosting, but finally opted for full-control and my own VPS.
-I bet this way there's more trouble, therefore more learning oportunities.
+At first I went with [GitHub Pages](https://pages.github.com/) for hosting, but I finally opted for full-control and my own AWS VPS.
+I bet this way there's more trouble coming my way, therefore more learning oportunities.
 
 ***
 These last few days I've been learning:
@@ -21,7 +21,5 @@ These last few days I've been learning:
     <li>How to manage my own domain</li>
 </ul>
 ***
-Please note that I'm adapting the al-folio Jekyll template to suit my needs. My About page is done, plus the social-integration.
-Lots of work to be done (e.g., blog, projects, https setup), but I'll get there.
-
-Hosting is done using an AWS EC2 instance and Nginx.
+Please note that I'm adapting the [al-folio](https://github.com/alshedivat/al-folio) [Jekyll](https://jekyllrb.com/) template to suit my needs. My About page is ready, plus the social-integration.
+Lots of work left to be done (e.g., blog, projects, https setup), but I'll get there.
