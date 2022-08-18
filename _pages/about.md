@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 Hi! I'm Ștefan and I'm a music lover, a film aficionado, an amateur road cyclist, a beginner runner, an occasional computer gamer and an ardent student of life. I love solving problems and strive to always learn. My sweet tooth is `all things tech`!
 
-I am currently learning Python, HTML, CSS, JavaScript fundamentals, and the Django web framework. Add to that Jekyll on which I am building this personal web page. Everything for following the long n' twisty road from Dummy to Master Programmer.
+I am currently learning Python, HTML, CSS, JavaScript fundamentals, and the Django web framework. Add to that Jekyll on which I am building this personal page. Everything for following the long n' twisty road from Dummy to Master Programmer.
 
 This website is hosted on AWS using an EC2 instance and it's a fork of the [al-folio](https://github.com/alshedivat/al-folio) Jekyll template.
 
