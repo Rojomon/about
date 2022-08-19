@@ -21,4 +21,6 @@ I am currently learning Python, HTML, CSS, JavaScript fundamentals, and the Djan
 
 This website is hosted on AWS using an EC2 instance and it's a fork of the [al-folio](https://github.com/alshedivat/al-folio) Jekyll template.
 
-Many thanks go out to [Dr. Chuck](http://www.dr-chuck.com) - you must check his free online courses [Python for Everybody](https://www.py4e.com) and [Django for Everybody](https://www.dj4e.com). A special mention goes to my dear colleague [Tavi](https://www.linkedin.com/in/octavian-erdei-53086223/): you are a never-ending source of inspiration!
+Many thanks go out to [Dr. Chuck](http://www.dr-chuck.com) - you must check his free online courses [Python for Everybody](https://www.py4e.com) and [Django for Everybody](https://www.dj4e.com). A special mention goes to my dear colleague [Tavi](https://www.linkedin.com/in/octavian-erdei-53086223/): you are a never-ending source of inspiration.
+
+Message pour le Maître Hérisson : t'es le meilleur mentor que j'ai jamais eu. La chance était avec moi quand je t'ai rencontré.
