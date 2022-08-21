@@ -14,7 +14,7 @@ Those words in the title, do they ring a bell for you too? I’m an Informatics 
 
 You might ask why now, what changed, and you’d be right to do so.
 
-The year is 2022, I’m participating in a 4-days Python class from [Bittnet](https://www.bittnet.ro/) made possible by my former [RTR](https://www.gruprenault.ro/tags/renault-technologie-roumanie) manager – thanks for this opportunity, [Marian](https://www.linkedin.com/in/ceausescu-marian-26743775/)! Our Python teacher is, as far as I can tell, an experienced programmer working in the domain of Machine Learning, Cloud, and other cool tools. 
+The year is 2022, I’m participating in a 4-day Python class from [Bittnet](https://www.bittnet.ro/) made possible by my former [RTR](https://www.gruprenault.ro/tags/renault-technologie-roumanie) manager – thanks for this opportunity, [Marian](https://www.linkedin.com/in/ceausescu-marian-26743775/)! Our Python teacher is, as far as I can tell, an experienced programmer working in the domain of Machine Learning, Cloud, and other cool tools. 
 
 Tuesday morning, the Python Class starts: 
 <ul>
@@ -24,7 +24,7 @@ Tuesday morning, the Python Class starts:
     <li>The fourth day is about the proper Python way to write code and our final project &rarr; I can no longer make sense of anything</li>
 </ul>
 
-By now it’s Friday evening and the Python class has ended. I copy the learning-materials to my personal PC. It’s all over and I might even get a Certificate of Completion. It’s just that… part of me is restless. Is this really for me? Do I have to be a genius? What does it take to learn how to code? These thoughts torment me all weekend. 
+By now it’s Friday evening and the Python class has ended. I copy the learning materials to my personal PC. It’s all over and I might even get a Certificate of Completion. It’s just that… part of me is restless. Is this really for me? Do I have to be a genius? What does it take to learn how to code? These thoughts torment me all weekend. 
 
 Monday comes along, and it’s by no means a Blue Monday. It’s my new start in life! After work I spend my whole evening researching what it takes to become a programmer. I stumble on so much online information, I’m bamboozled, but excited and filled with purpose. I know my goal now and I will get to the bottom of this. One of the YouTube videos starts with the message: “However, [Dr. Chuck](https://www.dr-chuck.com/) is probably best known for having [the largest Python course in the world](https://youtu.be/z3o6yEzcnLc?t=39). His course [Python for Everybod](https://www.coursera.org/specializations/python) on Coursera has 2.4 million students!”. As of now, his course has 3.5 million students. I watch the video until the end, the fog clears. I know what I have to do from here onwards. Thank you [David Bombal](https://www.youtube.com/c/DavidBombal) for hosting [Dr. Chuck](https://www.dr-chuck.com/) on your channel. 
 
