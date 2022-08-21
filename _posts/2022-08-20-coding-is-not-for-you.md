@@ -6,7 +6,7 @@ tags: python django
 categories: self-taught-programmer
 ---
 
-Those words in the title, do they ring a bell for you too? I’m an Informatics and Mathematics high-school graduate. In my teens I fought so hard to get into this domain, until I had my first encounters with the school teachers and the subjects that came along with that. I learnt lots of coding in Pascal, advanced math topics, chemistry, and others. Long story short:  almost didn’t finish high-school, that’s how disappointed I was with the my learning experience. 
+Those words in the title, do they ring a bell for you too? I’m an Informatics and Mathematics high-school graduate. In my teens I fought so hard to get into this domain, until I had my first encounters with the school teachers and the subjects that came along with that. I learnt lots of coding in Pascal, advanced math topics, chemistry, and others. Long story short:  almost didn’t finish high-school, that’s how disappointed I was with the learning experience. 
 
 <blockquote>
 20 years passed by and I’m having a second go at it. 
@@ -26,7 +26,7 @@ Tuesday morning, the Python Class starts:
 
 By now it’s Friday evening and the Python class has ended. I copy the learning materials to my personal PC. It’s all over and I might even get a Certificate of Completion. It’s just that… part of me is restless. Is this really for me? Do I have to be a genius? What does it take to learn how to code? These thoughts torment me all weekend. 
 
-Monday comes along, and it’s by no means a Blue Monday. It’s my new start in life! After work I spend my whole evening researching what it takes to become a programmer. I stumble on so much online information, I’m bamboozled, but excited and filled with purpose. I know my goal now and I will get to the bottom of this. One of the YouTube videos starts with the message: “However, [Dr. Chuck](https://www.dr-chuck.com/) is probably best known for having [the largest Python course in the world](https://youtu.be/z3o6yEzcnLc?t=39). His course [Python for Everybod](https://www.coursera.org/specializations/python) on Coursera has 2.4 million students!”. As of now, his course has 3.5 million students. I watch the video until the end, the fog clears. I know what I have to do from here onwards. Thank you [David Bombal](https://www.youtube.com/c/DavidBombal) for hosting [Dr. Chuck](https://www.dr-chuck.com/) on your channel. 
+Monday comes along, and it’s by no means a Blue Monday. It’s my new start in life! After work I spend my whole evening researching what it takes to become a programmer. I stumble on so much online information, I’m bamboozled, but excited and filled with purpose. I know my goal now and I will get to the bottom of this. One of the YouTube videos starts with the message: “However, [Dr. Chuck](https://www.dr-chuck.com/) is probably best known for having [the largest Python course in the world](https://youtu.be/z3o6yEzcnLc?t=39). His course [Python for Everybody](https://www.coursera.org/specializations/python) on Coursera has 2.4 million students!”. As of now, his course has 3.5 million students. I watch the video until the end, the fog clears. I know what I have to do from here onwards. Thank you [David Bombal](https://www.youtube.com/c/DavidBombal) for hosting [Dr. Chuck](https://www.dr-chuck.com/) on your channel. 
 
 It's still Monday evening and I’m already signed-up & signed-in to [Python for Everybody](https://www.py4e.com). This is where my self-taught-programmer journey begins.
 
