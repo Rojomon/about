@@ -53,14 +53,14 @@ body.sticky-bottom-footer {
 .share-page {
   text-align: center;
   // background: $secondary-color;
-  color: $cyan-color;
+  color: var(--global-text-color);
   padding: 8px 15px;
   border-radius: 5px;
   margin: 1.5px;
 
   a {
       font-weight: 700;
-      color: #fff;
+      color: var(--global-theme-color);
       margin-left: 10px;
 
       &:hover {
