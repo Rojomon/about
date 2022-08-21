@@ -18,23 +18,23 @@ The year is 2022, I’m participating in a 4-days Python class from [Bittnet](ht
 
 Tuesday morning, the Python Class starts: 
 <ul>
-    <li>The first day goes well; I'm in awe of how amazing Python coding can be!</li>
-    <li>The second day is ok; I've got lots to learn, but I got this!</li>
-    <li>The third day we are presented with Classes, Lambdas and Python (List) Comprehensions; what the f**k is going on here?!</li>
-    <li>The fourth day is about the proper Python way to write code and our final project; I can no longer make sense of anything</li>
+    <li>The first day goes well &rarr; I'm in awe of how amazing Python coding can be!</li>
+    <li>The second day is ok &rarr; I've got lots to learn, but I got this!</li>
+    <li>The third day we are presented with Classes, Lambdas and Python (List) Comprehensions &rarr; what the f**k is going on here?!</li>
+    <li>The fourth day is about the proper Python way to write code and our final project &rarr; I can no longer make sense of anything</li>
 </ul>
 
 By now it’s Friday evening and the Python class has ended. I copy the learning-materials to my personal PC. It’s all over and I might even get a Certificate of Completion. It’s just that… part of me is restless. Is this really for me? Do I have to be a genius? What does it take to learn how to code? These thoughts torment me all weekend. 
 
-Monday comes along, and it’s by no means a Blue Monday. It’s my new start in life! After work I spend my whole evening researching what it takes to become a programmer. I stumble on so much online information, I’m bamboozled, but excited and filled with purpose. I know my goal now and I will get to the bottom of this. One of the YouTube videos starts with the message: “[The largest Python course in the world](https://youtu.be/z3o6yEzcnLc) with 2.4 Million students on Coursera!”. I watch the video until the end, the fog clears. I know what I have to do from here onwards. Thank you [David Bombal](https://www.youtube.com/c/DavidBombal) for hosting [Dr. Chuck](https://www.dr-chuck.com/) on your channel. 
+Monday comes along, and it’s by no means a Blue Monday. It’s my new start in life! After work I spend my whole evening researching what it takes to become a programmer. I stumble on so much online information, I’m bamboozled, but excited and filled with purpose. I know my goal now and I will get to the bottom of this. One of the YouTube videos starts with the message: “However, [Dr. Chuck](https://www.dr-chuck.com/) is probably best known for having [the largest Python course in the world](https://youtu.be/z3o6yEzcnLc?t=39). His course [Python for Everybod](https://www.coursera.org/specializations/python) on Coursera has 2.4 million students!”. As of now, his course has 3.5 million students. I watch the video until the end, the fog clears. I know what I have to do from here onwards. Thank you [David Bombal](https://www.youtube.com/c/DavidBombal) for hosting [Dr. Chuck](https://www.dr-chuck.com/) on your channel. 
 
-It's still Monday evening and I’m already signed-up & signed-in to [Python for Everybody](https://py4e.com). This is where my self-taught-programmer journey begins.
+It's still Monday evening and I’m already signed-up & signed-in to [Python for Everybody](https://www.py4e.com). This is where my self-taught-programmer journey begins.
 
-<a href="https://py4e.com"><img src="/assets/img/py4e.png" alt="https://www.py4e.com" width="100%"/></a>
+<a href="https://www.py4e.com"><img src="/assets/img/py4e.png" alt="https://www.py4e.com" width="100%"/></a>
 
 Fast-forward 2 months and I complete [Dr. Chuck’s](https://www.dr-chuck.com/) free online Python class. The mystery starts to unravel itself. I can be a coder too. I’m hyped. I’m focused. I have a purpose. I’m unstoppable. I Think I Can!
 
-5 months have passed and I'm still on track. Meanwhile, I made good progress with [Dr. Chuck’s](https://www.dr-chuck.com/) [Django for Everybody](https://dj4e.com) course and I’m about to complete the [Become a Python Developer]( https://www.linkedin.com/learning/paths/become-a-python-developer-8969630) learning path on [LinkedIn Learning](https://www.linkedin.com/learning/). 
+5 months have passed and I'm still on track. Meanwhile, I made good progress with [Dr. Chuck’s](https://www.dr-chuck.com/) [Django for Everybody](https://www.dj4e.com) course and I’m about to complete the [Become a Python Developer]( https://www.linkedin.com/learning/paths/become-a-python-developer-8969630) learning path on [LinkedIn Learning](https://www.linkedin.com/learning/). 
 
 There are tons of awesome learning materials on the internet that I’ve got on my bucket-list. I’m already going through some of them whilst learning Python and Django. You know what's the greatest thing about this? Many of these learning materials are free and accessible to everybody! And the ones that are not free don’t cost you an arm nor a leg. I’m also learning the fundamentals of Web Development and having fun in the Cloud while I’m at it. This way of learning suits me well, changing between 2 or 3 different topics. It keeps me engaged. It might or it might not work for you, but this path lead me here, to creating and hosting my first website ever using a VPS. 
 
