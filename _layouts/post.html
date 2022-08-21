@@ -58,4 +58,13 @@ layout: default
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   {%- endif %}
 
+  <div class="share-page">
+    Share this on &rarr;
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+    <a href="http://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on pinterest">Pinterest</a>
+    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on linkedin">LinkedIn</a>
+
+
+  </div>
 </div>
