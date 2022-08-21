@@ -66,6 +66,7 @@ body.sticky-bottom-footer {
       &:hover {
           border-bottom: 1px #fff;
           text-decoration: none;
+          color: var(--global-text-color)
       }
   }
 }
