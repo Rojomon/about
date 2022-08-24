@@ -6,13 +6,13 @@ tags: python django
 categories: self-taught-programmer
 ---
 
-Those words in the title, do they ring a bell for you too? I’m an Informatics and Mathematics high-school graduate. In my teens I fought so hard to get into this domain, until I had my first encounters with the school teachers and the subjects that came along with that. I learnt lots of coding in Pascal, advanced math topics, chemistry, and others. Long story short:  almost didn’t finish high-school, that’s how disappointed I was with the learning experience. 
+Those words in the title, do they ring a bell for you too? I’m an Informatics and Mathematics high-school graduate. In my teens I fought so hard to get into this domain, until I had my first encounters with the school teachers and the subjects that came along with that. I learnt lots of coding in Pascal, advanced math topics, chemistry, and others. Long story short:  almost didn’t finish high-school, that’s how disappointed I was with the learning experience.
 
 ***20 years passed by and I’m having a second go at it.***
 
 You might ask why now, what changed, and you’d be right to do so.
 
-The year is 2022, I’m participating in a 4-day Python class from [Bittnet](https://www.bittnet.ro/) made possible by my former [RTR](https://www.gruprenault.ro/tags/renault-technologie-roumanie) manager – thanks for this opportunity, [Marian](https://www.linkedin.com/in/ceausescu-marian-26743775/)! Our Python teacher is, as far as I can tell, an experienced programmer working in the domain of Machine Learning, Cloud, and other cool tools. 
+The year is 2022, I’m participating in a 4-day Python class from [Bittnet](https://www.bittnet.ro/) made possible by my former [RTR](https://www.gruprenault.ro/tags/renault-technologie-roumanie) manager – thanks for this opportunity, [Marian](https://www.linkedin.com/in/ceausescu-marian-26743775/). Our Python teacher is, as far as I can tell, an experienced programmer working in the domain of Machine Learning, loud, and other cool tools. 
 
 Tuesday morning, the Python Class starts: 
 - The first day goes well &rArr; I'm in awe of how amazing Python coding can be!
@@ -24,9 +24,7 @@ By now it’s Friday evening and the Python class has ended. I copy the learning
 
 Monday comes along, and it’s by no means a Blue Monday. It’s my new start in life! After work I spend my whole evening researching what it takes to become a programmer. I stumble upon so much online information, I’m bamboozled, but excited and filled with purpose. I know my goal now and I will get to the bottom of this. One of the YouTube videos starts with the message: 
 
-<blockquote>
-However, <a href="https://www.dr-chuck.com/">Dr. Chuck</a> is probably best known for having <a href="https://youtu.be/z3o6yEzcnLc?t=39">the largest Python course in the world</a>. His course <a href="https://www.coursera.org/specializations/python">Python for Everybody</a> on Coursera has 2.4 million students!
-</blockquote>
+>However, [Dr. Chuck](https://www.dr-chuck.com/) is probably best known for having [the largest Python course in the world](https://youtu.be/z3o6yEzcnLc?t=39). His course [Python for Everybody](https://www.coursera.org/specializations/python) on Coursera has 2.4 million students!
 
 As of now, his course has 3.5 million students. I watch the video until the end, the fog clears. I know what I have to do from here onwards. Thank you [David Bombal](https://www.youtube.com/c/DavidBombal) for hosting [Dr. Chuck](https://www.dr-chuck.com/) on your channel. 
 
