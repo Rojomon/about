@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Personal Website Is Live
-description: Everybody Needs a Personal Website
+description: everybody needs a personal website
 tags: jekyll html css aws 
 categories: self-taught-programmer
 ---
