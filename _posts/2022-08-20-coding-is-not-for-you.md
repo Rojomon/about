@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Coding Is Not for You
+title: Coding Is Not for You
 description: how I got back to programming after 20 years
 tags: python django
 categories: self-taught-programmer

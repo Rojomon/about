@@ -2,7 +2,7 @@
 layout: post
 title: Having Fun with the Raspberry Pi Pico
 description: learning MicroPython, C and electronics
-tags: python C raspberryPi
+tags: python c raspberrypi
 categories: self-taught-programmer
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Becoming a Python Developer
+title: Becoming a Python Developer
 description: ... and the LinkedIn Learning Path to it
 tags: python
 categories: self-taught-programmer
