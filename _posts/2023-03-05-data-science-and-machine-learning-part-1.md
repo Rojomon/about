@@ -2,7 +2,7 @@
 layout: post
 title: Data Science & Machine Learning - Part 1
 description: learning the basics and then some
-tags: python
+tags: python kaggle numpy pandas matplotlib
 categories: self-taught-programmer
 ---
 
