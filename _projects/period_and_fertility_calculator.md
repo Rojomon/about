@@ -11,7 +11,7 @@ This project appeared by pure chance on my previous week's todo list. I was stud
 
 _Voilà !_ 
 
-The result is now hosted here [`Period and Fertility Calendar Calculator`](http://period-and-fertility-calculator.stefanrosu.ro/) and you can also see it in the two screenshots below.
+The result is now hosted here [`Period and Fertility Calendar Calculator`](https://stefanrosu.ro/period-and-fertility-calculator) and you can also see it in the two screenshots below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
