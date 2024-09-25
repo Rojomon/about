@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Create the Snake Game in Rust/WebAssembly and Javascript
+title: The Snake Game in Rust/WASM and JS/TS
 description: a fun way to dive deeper into rust and wasm
 img: assets/img/snake_game.png
 importance: 1
