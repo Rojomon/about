@@ -2,7 +2,7 @@
 layout: page
 title: Create the Snake Game in Rust/WebAssembly and Javascript
 description: a fun way to dive deeper into rust and wasm
-img: assets/img/period_and_fertility_calculator_1_2.png
+img: assets/img/snake_game.png
 importance: 1
 category: learn
 ---
