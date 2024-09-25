@@ -214,7 +214,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['python', 'django', 'c', 'sklearn', 'kaggle', 'tensor-flow', 'google-colab', 'numpy', 'pandas', 'matplotlib'] # these tags will be displayed on the front page of your blog
+display_tags: ['python', 'rust', 'wasm', 'js', 'ts', 'django', 'c', 'sklearn', 'kaggle', 'tensor-flow', 'google-colab', 'numpy', 'pandas', 'matplotlib'] # these tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
